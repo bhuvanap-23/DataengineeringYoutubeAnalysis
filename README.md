@@ -1,2 +1,1 @@
-# dataengineering-youtube-analysis-project
-Data Engineering YouTube Analysis Project by Darshil Parmar
+This project analyzes data from Youtube platform based on the number of likes, most watched videos and uses data engineering techniques such as web crawler, AWS glue, AWS Lambda, Apache Flink, S3 bucket to store the real time data and process it using Lamda. The cleaned data is queried through AWS Athena and ETL jobs are run on the pipeline for which the graphical data is presented on the dashboard.
